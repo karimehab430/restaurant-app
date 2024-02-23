@@ -2,6 +2,11 @@
 
 Welcome to the Restaurant Landing Page App! This project is a simple React application for showcasing a restaurant's menu, information, and reviews.
 
+## Built With
+React - JavaScript library for building user interfaces.
+
+Tailwind CSS - A utility-first CSS framework.
+
 ## Demo
 You can visit the website [here](https://karimehab430.github.io/restaurant-app/) .
 

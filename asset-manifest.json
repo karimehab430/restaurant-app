@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/restaurant-app/static/css/main.a2c1f286.css",
+    "main.js": "/restaurant-app/static/js/main.2a1b0dba.js",
+    "static/media/premium1.jpg": "/restaurant-app/static/media/premium1.74383b1491be938418e3.jpg",
+    "static/media/img1.jpg": "/restaurant-app/static/media/img1.cce59a56357c19a63cb6.jpg",
+    "static/media/img5.jpg": "/restaurant-app/static/media/img5.b0308b3ede45a9bb4e4d.jpg",
+    "static/media/img6.jpg": "/restaurant-app/static/media/img6.e44fd54bbf8351a3bcc8.jpg",
+    "static/media/img4.jpg": "/restaurant-app/static/media/img4.f4dd04b984a6a5798c5d.jpg",
+    "static/media/img3.jpg": "/restaurant-app/static/media/img3.ba3caa2c42b38340bcd0.jpg",
+    "static/media/img2.jpg": "/restaurant-app/static/media/img2.ba8ebc896fe4af57a1ed.jpg",
+    "static/media/about.jpg": "/restaurant-app/static/media/about.dde374c373cc73a1aa79.jpg",
+    "static/media/premium3.jpg": "/restaurant-app/static/media/premium3.f5ffe666ad6e15bb564a.jpg",
+    "static/media/premium2.jpg": "/restaurant-app/static/media/premium2.3fc227583250e8f5af73.jpg",
+    "static/media/review1.jpg": "/restaurant-app/static/media/review1.298b321daf8323ef5188.jpg",
+    "static/media/review2.jpg": "/restaurant-app/static/media/review2.fcd46f0180403915512c.jpg",
+    "static/media/review3.jpg": "/restaurant-app/static/media/review3.de7468dc6ae5b03f8189.jpg",
+    "index.html": "/restaurant-app/index.html",
+    "main.a2c1f286.css.map": "/restaurant-app/static/css/main.a2c1f286.css.map",
+    "main.2a1b0dba.js.map": "/restaurant-app/static/js/main.2a1b0dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c1f286.css",
+    "static/js/main.2a1b0dba.js"
+  ]
+}
